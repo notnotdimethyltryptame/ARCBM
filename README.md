@@ -46,7 +46,7 @@ This application was created by [Don Michael Tranquada](https://github.com/YanKu
 - Supported image formats for upload: jpg, jpeg, png.
 
 ## Support:
-For any inquiries or support, please contact Don Michael Tranquada at [email@example.com].
+For any inquiries or support, please contact Don Michael Tranquada at [tranquadadonmichael@gmail.com].
 
 ---
 
