@@ -1,7 +1,7 @@
 # ARCBM (A Really Crappy Bio Maker)
 
 ## Overview:
-ARCBM is a simple PyQt5 application designed by [Don Michael Tranquada](https://github.com/YanKuwada). It allows users to create personal bios with fields for personal information, education, work experience, and the option to upload an image.
+ARCBM is a simple PyQt5 application designed by me [Don Michael Tranquada](https://github.com/YanKuwada). It allows users to create personal bios with fields for personal information, education, work experience, and the option to upload an image.
 
 ## Usage:
 1. **Launching the Application**: To run the application, simply execute the `ARCBM.exe` file. Upon launch, the application window will appear with various input fields for creating a personal bio.
